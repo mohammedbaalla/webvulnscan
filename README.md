@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![CI](https://github.com/mohammedbaalla/web-vuln-scanner/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/mohammedbaalla/webvulnscan/actions/workflows/ci.yml/badge.svg)
 
 > ⚠️ **For authorized security testing only.** Only scan targets you own or have explicit written permission to test.
 
